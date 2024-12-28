@@ -1,0 +1,14 @@
+header {
+    margin-top: 64px;
+    padding: 32px;
+    background-color: aliceblue;
+}
+
+p, h1 {
+    margin-top: 12px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}

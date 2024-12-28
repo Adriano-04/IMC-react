@@ -1,0 +1,48 @@
+.form-container {
+    padding: 24px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    background-color: rgb(201, 200, 200);
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    padding: 8px;
+    font-size: 18px;
+}
+
+label {
+    margin-left: 8px;
+    margin-right: 8px;
+    font-size: 20px;
+}
+
+.ideal {
+    color: rgb(1, 196, 1);
+}
+
+.abaixo {
+    color: rgb(241, 241, 69);
+}
+
+.acima {
+    color: orange;
+}
+
+.muito-acima {
+    color: rgb(218, 3, 3);
+}
+   
+.ideal, .abaixo, .acima, .muito-acima {
+    font-weight: bold;
+    margin-top: 32px;
+    font-size: 24px;
+    background-color: gray;
+    max-width: 50%;
+    margin: 12px auto 0;
+    border-radius: 3px;
+    padding: 4px;
+}

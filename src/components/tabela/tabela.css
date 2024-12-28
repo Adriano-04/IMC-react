@@ -1,0 +1,30 @@
+th {
+    font-weight: bold;
+    background-color: #f4f4f4;
+    font-size: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px;
+    border: solid 1px black;
+}
+
+.table-toggle {
+    padding: 12px;
+    margin-top: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.table-toggle:hover {
+    cursor: pointer;
+}
+
+.div-button {
+    text-align: center;
+}
